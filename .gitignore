@@ -1,4 +1,20 @@
 
 secure
 guilty_pleasures.md
- 
+.bash_history
+.bashrc
+.bootdev.yaml
+.cache/
+.config/
+.gitignore.save
+.landscape/
+.lesshst
+.local/
+.motd_shown
+.sudo_as_admin_successful
+.vscode-server/
+Downloads/
+go/
+webflyx-local/
+webflyx/
+worldbanc/ 
